@@ -345,6 +345,6 @@ To run this server API, you have to follow instruction below:
 6. Back to the **project folder** and **rename .env-examples** file into **.env** and do the instruction inside the file for configuration MongoDB connection Host.
 7. Now you can **run the server** by following this command line: `npm run dev`.
 8. After make sure the server not getting any error, **open Postman or other app** to test the API.
-9. **If you are using Postman**, you can import the *mid-term.postman_collection.json* file on postman.
+9. **If you are using Postman**, you can import the *tokopedia-play-api.postman_collection.json* file on postman.
 10. Configure the request to test if you are **not using Postman**, if you are **using postman**, you can jump into next step.
 11. Finally, you can **test the API** by hit the request as much as you want.
