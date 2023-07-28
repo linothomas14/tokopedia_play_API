@@ -93,7 +93,7 @@ request -> routes -> controller [findByVideoId()] -> services [findByVideoId()] 
 ---
 **POST /comments**
 ```
-request -> routes -> controller [createComment()] -> services [createCommentServices()] -> repository [addComment()] -> response
+request -> routes -> controller [create()] -> services [create()] -> repository [create()] -> response
 ```
 **POST /comments/:id**
 ```
