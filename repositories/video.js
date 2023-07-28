@@ -1,6 +1,5 @@
 const VideoModel = require('../models/video');
 
-
 const findAll = async () => {
     try {
 

@@ -1,7 +1,8 @@
 const connectDB = require("./config/mongodb.js");
 const express = require('express')
 const videosRoutes = require('./routes/video.js')
-
+const productsRoutes = require('./routes/product.js')
+const commentsRoutes = require('./routes/comment.js')
 
 const app = express();
 
@@ -10,7 +11,8 @@ const app = express();
 app.use(express.json());
 
 app.use("/", videosRoutes);
-
+app.use("/", productsRoutes);
+app.use("/", commentsRoutes);
 // Connect to MongoDB
 connectDB();
 
