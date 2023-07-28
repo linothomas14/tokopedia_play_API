@@ -6,7 +6,8 @@ const commentSchema = mongoose.Schema({
     comment: { type: String, required: true, maxLength: 100 },
     video_id: {
         type: mongoose.Schema.Types.ObjectId,
-        ref: "videos"
+        ref: "videos",
+        required: true
     },
 
 },

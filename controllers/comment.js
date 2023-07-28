@@ -9,7 +9,7 @@ const create = async (req, res) => {
             video_id
         } = req.body;
 
-        if (!username || !comment) {
+        if (!username || !comment || !video_id) {
             throw new Error("Insufficient Parameter")
         }
 
@@ -19,7 +19,7 @@ const create = async (req, res) => {
             video_id: video_id
         }
 
-        const result = await commentService.create(commentCreate);
+        await commentService.create(commentCreate);
         res.status(201).json({ "status": "success" });
     } catch (error) {
         console.log(error.message)

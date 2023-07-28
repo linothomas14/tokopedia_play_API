@@ -7,7 +7,8 @@ const productSchema = mongoose.Schema({
     price: { type: Number, required: true },
     video_id: {
         type: mongoose.Schema.Types.ObjectId,
-        ref: "videos"
+        ref: "videos",
+        required: true
     },
 
 },

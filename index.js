@@ -13,6 +13,7 @@ app.use(express.json());
 app.use("/", videosRoutes);
 app.use("/", productsRoutes);
 app.use("/", commentsRoutes);
+
 // Connect to MongoDB
 connectDB();
 
