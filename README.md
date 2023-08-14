@@ -45,7 +45,7 @@ Colletions:
 
     document structure
     
-    **#Comments Object**
+    ### Comments Object
     ```
     {
         _id: <ObjectID>,
@@ -95,7 +95,7 @@ request -> routes -> controller [findByVideoId()] -> services [findByVideoId()] 
 ```
 request -> routes -> controller [create()] -> services [create()] -> repository [create()] -> response
 ```
-**POST /comments/:id**
+**GET /comments/:id**
 ```
 request -> routes -> controller [findById()] -> services [findById()] -> repository [findById()] -> response
 ```
