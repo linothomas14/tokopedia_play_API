@@ -10,6 +10,7 @@ const productSchema = mongoose.Schema({
         ref: "videos",
         required: true
     },
+    thumbnail_url: { type: String, required: true, maxLength: 100 },
 
 },
     { timestamps: true });

@@ -1,0 +1,138 @@
+[
+  {
+    "_id": {
+      "$oid": "64c338d1e1885c2eb5c8669a"
+    },
+    "username": "Username 123",
+    "comment": "Comment 123",
+    "video_id": {
+      "$oid": "64c374ae81d118bc7833cdd2"
+    },
+    "createdAt": {
+      "$date": "2023-07-28T03:41:05.701Z"
+    },
+    "updatedAt": {
+      "$date": "2023-07-28T03:41:05.701Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64da211cae9e0644f1b09d2c"
+    },
+    "username": "Username 123",
+    "comment": "Comment 123",
+    "video_id": {
+      "$oid": "64c374ae81d118bc7833cdd2"
+    },
+    "createdAt": {
+      "$date": "2023-07-28T03:41:05.701Z"
+    },
+    "updatedAt": {
+      "$date": "2023-07-28T03:41:05.701Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64da211fae9e0644f1b09d2d"
+    },
+    "username": "Username 123",
+    "comment": "Comment 123",
+    "video_id": {
+      "$oid": "64c374ae81d118bc7833cdd2"
+    },
+    "createdAt": {
+      "$date": "2023-07-28T03:41:05.701Z"
+    },
+    "updatedAt": {
+      "$date": "2023-07-28T03:41:05.701Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64da2f8c07e2d992c3776251"
+    },
+    "username": "Romi Ari",
+    "comment": "Bagus bang",
+    "video_id": {
+      "$oid": "64c374ae81d118bc7833cdd2"
+    },
+    "createdAt": {
+      "$date": "2023-08-14T13:43:40.149Z"
+    },
+    "updatedAt": {
+      "$date": "2023-08-14T13:43:40.149Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64da310e07e2d992c3776261"
+    },
+    "username": "Budi Gunawan",
+    "comment": "Enak bang kasurnya anjayyy",
+    "video_id": {
+      "$oid": "64c374ae81d118bc7833cdd2"
+    },
+    "createdAt": {
+      "$date": "2023-08-14T13:50:06.866Z"
+    },
+    "updatedAt": {
+      "$date": "2023-08-14T13:50:06.866Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64da316307e2d992c3776275"
+    },
+    "username": "Ria",
+    "comment": "Halloo test test",
+    "video_id": {
+      "$oid": "64c374d581d118bc7833cdd6"
+    },
+    "createdAt": {
+      "$date": "2023-08-14T13:51:31.639Z"
+    },
+    "updatedAt": {
+      "$date": "2023-08-14T13:51:31.639Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64da31a607e2d992c377629d"
+    },
+    "username": "Rio",
+    "comment": "Halo",
+    "video_id": {
+      "$oid": "64c374d581d118bc7833cdd6"
+    },
+    "createdAt": {
+      "$date": "2023-08-14T13:52:38.799Z"
+    },
+    "updatedAt": {
+      "$date": "2023-08-14T13:52:38.799Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64da31cf07e2d992c37762a9"
+    },
+    "username": "Tukang Nasgor",
+    "comment": "Bagus bang",
+    "video_id": {
+      "$oid": "64da0767ae9e0644f1b09d22"
+    },
+    "createdAt": {
+      "$date": "2023-08-14T13:53:19.260Z"
+    },
+    "updatedAt": {
+      "$date": "2023-08-14T13:53:19.260Z"
+    },
+    "__v": 0
+  }
+]

@@ -6,10 +6,10 @@ const create = async (req, res) => {
         const {
             title,
             product_url,
-            price, video_id
+            price, video_id, thumbnail_url
         } = req.body;
 
-        if (!title || !price || !product_url || !video_id) {
+        if (!title || !price || !product_url || !video_id || !thumbnail_url) {
             throw new Error("Insufficient Parameter")
         }
 
@@ -21,6 +21,7 @@ const create = async (req, res) => {
             title: title,
             price: price,
             product_url: product_url,
+            thumbnail_url: thumbnail_url,
             video_id: video_id
         }
 

@@ -1,0 +1,75 @@
+[{
+  "_id": {
+    "$oid": "64c374ae81d118bc7833cdd2"
+  },
+  "title": "HUT RI ke 78 Promo Kasur murah",
+  "video_url": "https://www.youtube.com/embed/uctVGETlogU",
+  "thumbnail_url": "https://images.tokopedia.net/img/QBrNqa/2022/7/29/4c701a08-3f42-405e-89fe-e4b7f891d675.jpg",
+  "createdAt": {
+    "$date": "2023-07-28T07:56:30.089Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-28T07:56:30.089Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64c374d581d118bc7833cdd6"
+  },
+  "title": "Promo Alat musik",
+  "video_url": "https://www.youtube.com/embed/c0D0FUPCWJA",
+  "thumbnail_url": "https://i.pinimg.com/originals/7b/05/50/7b0550d2020149729e1a9d5c2ecc465c.jpg",
+  "createdAt": {
+    "$date": "2023-07-28T07:57:09.048Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-28T07:57:09.048Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da0767ae9e0644f1b09d22"
+  },
+  "title": "Diskon besar besaran sepatu olahraga",
+  "video_url": "https://www.youtube.com/embed/HU_rr1nsGW0",
+  "thumbnail_url": "https://i01.appmifile.com/webfile/globalimg/13/8EF27A2D-957C-D4E6-B478-31911EFFA5E0.jpg",
+  "createdAt": {
+    "$date": "2023-07-28T07:56:30.089Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-28T07:56:30.089Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da090aae9e0644f1b09d23"
+  },
+  "title": "Produk kecantikan gratis ongkir",
+  "video_url": "https://www.youtube.com/embed/sP2ZwmET0CI",
+  "thumbnail_url": "https://images.tokopedia.net/img/cache/850/BgtCLw/2023/6/20/891e6b96-d36c-42a0-85b2-019449bfd1e5.jpg?ect=4g",
+  "createdAt": {
+    "$date": "2023-07-28T07:56:30.089Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-28T07:56:30.089Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da09a1ae9e0644f1b09d24"
+  },
+  "title": "Gadget murah bergaransi",
+  "video_url": "https://www.youtube.com/embed/yoBibrIPWJQ",
+  "thumbnail_url": "https://channel9.id/wp-content/uploads/2020/11/WhatsApp-Image-2020-11-25-at-15.18.22.jpeg",
+  "createdAt": {
+    "$date": "2023-07-28T07:56:30.089Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-28T07:56:30.089Z"
+  },
+  "__v": 0
+}]

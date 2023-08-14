@@ -1,0 +1,114 @@
+[{
+  "_id": {
+    "$oid": "64da1b4a07e2d992c37529b8"
+  },
+  "title": "Kasur Lipat Tote Bed Roll n Easy",
+  "product_url": "URL 123",
+  "price": 200000,
+  "video_id": {
+    "$oid": "64c374ae81d118bc7833cdd2"
+  },
+  "thumbnail_url": "https://totebed.com/cdn/shop/products/SKU_RE_Slide2-Copy.jpg?v=1684831713&width=1445",
+  "createdAt": {
+    "$date": "2023-08-14T12:17:14.324Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-14T12:17:14.324Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da1cbcae9e0644f1b09d26"
+  },
+  "title": "Uniland Kasur Lipat 90x200 Bonus Tas Kasur - Busa Gulung Lantai Travel",
+  "product_url": "URL 123",
+  "price": 293000,
+  "video_id": {
+    "$oid": "64c374ae81d118bc7833cdd2"
+  },
+  "thumbnail_url": "https://images.tokopedia.net/img/cache/500-square/VqbcmM/2022/10/3/52be6aee-2e30-4977-aec1-af8cf14f6746.png.webp?ect=4g",
+  "createdAt": {
+    "$date": "2023-08-14T12:17:14.324Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-14T12:17:14.324Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da1d2eae9e0644f1b09d27"
+  },
+  "title": "Kasur Spring bed Springbed - 90 x 200",
+  "product_url": "URL 123",
+  "price": 200000,
+  "video_id": {
+    "$oid": "64c374ae81d118bc7833cdd2"
+  },
+  "thumbnail_url": "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/8/11/5494c379-f623-4cb8-9922-5f3513be60bf.jpg",
+  "createdAt": {
+    "$date": "2023-08-14T12:17:14.324Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-14T12:17:14.324Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da1da3ae9e0644f1b09d28"
+  },
+  "title": "Kasur Lipat 3 Kasur Busa Lipat Royal Foam",
+  "product_url": "URL 123",
+  "price": 299000,
+  "video_id": {
+    "$oid": "64c374ae81d118bc7833cdd2"
+  },
+  "thumbnail_url": "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/5/24/12bd7dbc-c49e-47a5-8cfd-47d46084cbff.jpg",
+  "createdAt": {
+    "$date": "2023-08-14T12:17:14.324Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-14T12:17:14.324Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da1defae9e0644f1b09d29"
+  },
+  "title": "kasur busa vassa quilting / Royal foam inside - 90x200",
+  "product_url": "URL 123",
+  "price": 200000,
+  "video_id": {
+    "$oid": "64c374ae81d118bc7833cdd2"
+  },
+  "thumbnail_url": "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/2/28/fd79c147-95ff-4b3a-8071-3068e32812b0.jpg",
+  "createdAt": {
+    "$date": "2023-08-14T12:17:14.324Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-14T12:17:14.324Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64da1e2bae9e0644f1b09d2a"
+  },
+  "title": "INTEX Kasur Angin Queen Ultra Plush Airbed 64428 ",
+  "product_url": "URL 123",
+  "price": 1500000,
+  "video_id": {
+    "$oid": "64c374ae81d118bc7833cdd2"
+  },
+  "thumbnail_url": "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/3/31/9b279eef-f392-4aaf-902d-eae3f35fe1d8.jpg",
+  "createdAt": {
+    "$date": "2023-08-14T12:17:14.324Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-14T12:17:14.324Z"
+  },
+  "__v": 0
+}]
