@@ -11,6 +11,9 @@ app.use(cors());
 // Parse incoming requests data
 app.use(express.json());
 
+app.get('/', (req, res) => {
+    res.send('Hey this is my API running 🥳')
+})
 
 app.use("/", videosRoutes);
 app.use("/", productsRoutes);
